@@ -1,0 +1,4 @@
+Initiliaze project
+
+go mod init NameModule
+This will create a file where we can specify all the dependencies for our program.
